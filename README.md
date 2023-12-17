@@ -10,14 +10,12 @@ The repository is organized into folders, each representing a separate data anal
 ## Project Descriptions 
 Here's an overview of the projects included:
 
-### 
+### Sales Analysis 📈
 
-Description of project 1. Mention the dataset used, analysis objectives, and notable findings.
+A clothing company with multiple branches in many states in Australia that caters four groups (kids, women, men, seniors) wants to make investment decisions by getting in depth understanding of the company’s sales.
 
-### [Project 2](project2/)
+### Marketing Campaigns Analysis 🛍
 
-Description of project 2. Mention the dataset used, analysis objectives, and notable findings.
+The Marketing Campaigns Analysis project aims to leverage exploratory data analysis (EDA) and hypothesis testing techniques to gain a comprehensive understanding of the factors that influence customer acquisition. The goal is to analyze marketing campaign data and extract valuable insights that can inform future marketing strategies.
 
-### [Project 3](project3/)
 
-Description of project 3. Mention the dataset used, analysis objectives, and notable findings.
