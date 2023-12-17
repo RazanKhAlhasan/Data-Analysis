@@ -13,9 +13,13 @@ A clothing company with multiple branches in many states in Australia that cater
 The project goal will be achieved by going through the following steps:
 
 1. Data Wrangling
-2. Data Analysis 
-3. Data Visualization
-4. Report Generation
+   - Ensure that the data is clean and that there is no missing or incorrect data.
+   - Select an appropriate Data Wrangling approach (data standardization or data normalization).
+3. Data Analysis
+   - Perform descriptive statistical analysis on the data
+   - Determine which group is generating the highest sales, and which group is generating the lowest sales.
+   - Determine which state is generating the highest sales, and which state is generating the lowest sales.
+5. Data Visualization
 
 ## Contact Information 📩
 For any questions, suggestions, or inquiries related to the Employee Performance Mapping Project, please reach out to:
